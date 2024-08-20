@@ -1,3 +1,6 @@
+# Needed to install onto JupyterLab so that lonboard can connect with it
+anywidget
+
 # Core modules (mandatory)
 jupyterlite-core==0.4.0
 jupyterlab~=4.2.4
