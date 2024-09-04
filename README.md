@@ -1,15 +1,15 @@
 # JupyterLite + Lonboard Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.ds.io/lab)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.ds.io/lab/index.html?path=lonboard%2Fdata-filter-extension.ipynb)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
 
-➡️ **https://jupyterlite.ds.io/lab**
+➡️ **https://jupyterlite.ds.io/lab/index.html?path=lonboard%2Fdata-filter-extension.ipynb**
 
-![](assets/lonboard.png)
+[![](assets/lonboard.png)](https://jupyterlite.ds.io/lab/index.html?path=lonboard%2Fdata-filter-extension.ipynb)
 
 ## Requirements
 
