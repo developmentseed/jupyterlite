@@ -6,10 +6,11 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-
 ➡️ **https://jupyterlite.ds.io/lab/index.html?path=lonboard%2Fdata-filter-extension.ipynb**
 
 [![](assets/lonboard.png)](https://jupyterlite.ds.io/lab/index.html?path=lonboard%2Fdata-filter-extension.ipynb)
+
+- [Satellite Location](https://jupyterlite.ds.io/lab/index.html?path=lonboard%2Fsatellite-location.ipynb)
 
 ## Requirements
 
