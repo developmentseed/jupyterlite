@@ -25,7 +25,7 @@ jobs:
           uv run jupyter lite build --contents content --output-dir dist
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
 
